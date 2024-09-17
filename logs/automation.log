@@ -1,0 +1,86 @@
+11:12:23.696 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\RaghuJavaProject\ORANGE_HRM\AllMasterHRM.xml
+
+11:13:04.822 [main] INFO  TestCases.TC_001Login - *** starting login page***
+11:13:04.862 [main] INFO  TestCases.TC_001Login - enter username
+11:13:05.578 [main] INFO  TestCases.TC_001Login - enter password
+11:13:07.301 [main] INFO  TestCases.TC_001Login - target page displayed
+11:13:07.951 [main] INFO  TestCases.TC_001Login - *** ending login page***
+11:15:47.298 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\RaghuJavaProject\ORANGE_HRM\AllMasterHRM.xml
+
+11:16:15.782 [main] INFO  TestCases.TC_001Login - *** starting login page***
+11:16:15.811 [main] INFO  TestCases.TC_001Login - enter username
+11:16:16.575 [main] INFO  TestCases.TC_001Login - enter password
+11:16:18.851 [main] INFO  TestCases.TC_001Login - target page displayed
+11:16:19.292 [main] INFO  TestCases.TC_001Login - *** ending login page***
+11:19:29.355 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\RaghuJavaProject\ORANGE_HRM\AllMasterHRM.xml
+
+11:20:46.056 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\RaghuJavaProject\ORANGE_HRM\AllMasterHRM.xml
+
+11:54:09.749 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\RaghuJavaProject\ORANGE_HRM\AllMasterHRM.xml
+
+11:57:42.007 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\RaghuJavaProject\ORANGE_HRM\AllMasterHRM.xml
+
+11:58:20.250 [main] INFO  TestCases.TC_001Login - *** starting login page***
+11:58:20.270 [main] INFO  TestCases.TC_001Login - enter username
+11:58:21.575 [main] INFO  TestCases.TC_001Login - enter password
+11:58:26.552 [main] INFO  TestCases.TC_001Login - target page displayed
+11:58:27.044 [main] INFO  TestCases.TC_001Login - *** ending login page***
+12:32:30.882 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\RaghuJavaProject\ORANGE_HRM\AllMasterHRM.xml
+
+12:40:07.542 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\RaghuJavaProject\ORANGE_HRM\AllMasterHRM.xml
+
+12:41:20.177 [main] INFO  TestCases.TC_001Login - *** starting login page***
+12:41:20.215 [main] INFO  TestCases.TC_001Login - enter username
+12:41:55.869 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\RaghuJavaProject\ORANGE_HRM\AllMasterHRM.xml
+
+12:48:54.047 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\RaghuJavaProject\ORANGE_HRM\AllMasterHRM.xml
+
+12:50:21.237 [main] INFO  TestCases.TC_001Login - *** starting login page***
+12:50:21.270 [main] INFO  TestCases.TC_001Login - enter username
+12:50:23.684 [main] INFO  TestCases.TC_001Login - enter password
+12:50:23.950 [main] INFO  TestCases.TC_001Login - target page displayed
+12:50:31.092 [main] INFO  TestCases.TC_001Login - *** ending login page***
+12:51:29.187 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\RaghuJavaProject\ORANGE_HRM\AllMasterHRM.xml
+
+17:02:18.404 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\RaghuJavaProject\ORANGE_HRM\grid-drockerHRM.xml
+
+17:02:47.166 [main] INFO  TestCases.TC_001Login - *** starting login page***
+17:02:47.431 [main] INFO  TestCases.TC_001Login - enter username
+17:02:48.737 [main] INFO  TestCases.TC_001Login - enter password
+17:02:50.619 [main] INFO  TestCases.TC_001Login - target page displayed
+17:02:51.166 [main] INFO  TestCases.TC_001Login - *** ending login page***
+17:40:32.447 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\RaghuJavaProject\ORANGE_HRM\grid-drockerHRM.xml
+
+17:41:09.542 [main] INFO  TestCases.TC_001Login - *** starting login page***
+17:41:09.631 [main] INFO  TestCases.TC_001Login - enter username
+17:41:10.140 [main] INFO  TestCases.TC_001Login - enter password
+17:41:10.330 [main] INFO  TestCases.TC_001Login - target page displayed
+17:41:12.777 [main] INFO  TestCases.TC_001Login - *** ending login page***
+18:33:10.354 [main] INFO  TestCases.TC_001Login - *** starting login page***
+18:33:10.408 [main] INFO  TestCases.TC_001Login - enter username
+18:33:15.571 [main] INFO  TestCases.TC_001Login - enter password
+18:33:18.554 [main] INFO  TestCases.TC_001Login - target page displayed
+18:33:19.413 [main] INFO  TestCases.TC_001Login - *** ending login page***
+18:43:44.170 [main] INFO  TestCases.TC_001Login - *** starting login page***
+18:43:44.280 [main] INFO  TestCases.TC_001Login - enter username
+18:43:45.924 [main] INFO  TestCases.TC_001Login - enter password
+18:43:48.592 [main] INFO  TestCases.TC_001Login - target page displayed
+18:43:49.133 [main] INFO  TestCases.TC_001Login - *** ending login page***
+18:50:49.718 [main] INFO  TestCases.TC_001Login - *** starting login page***
+18:50:49.851 [main] INFO  TestCases.TC_001Login - enter username
+18:50:50.407 [main] INFO  TestCases.TC_001Login - enter password
+18:50:50.660 [main] INFO  TestCases.TC_001Login - target page displayed
+18:50:54.824 [main] INFO  TestCases.TC_001Login - *** ending login page***

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name=" grid docker Suite">
+<!-- master suite we can add more number of testcases and executes which browser we want -->
+<listeners>
+<listener class-name="Utitlties.ExtentReportManager1"/>
+</listeners>
+  <test thread-count="5" name="Test linux chrome">
+   <parameter name="os" value="Linux"></parameter>
+   <parameter name="browser" value="chrome"></parameter>
+    <classes>  
+     <class name="TestCases.TC_001Login"/>  
+    </classes>
+  </test> 
+  
+ <!--     
+  <test thread-count="5" name="Test linux firefox">
+   <parameter name="os" value="Linux"></parameter>
+   <parameter name="browser" value="firefox"></parameter>
+    <classes>   
+      <class name="TestCases.TC_001Login"/>
+    </classes>
+  </test>
+ --> 
+</suite> <!-- Suite -->

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-17T18:49:28 IST" name="Suite" finished-at="2024-09-17T18:50:55 IST" duration-ms="86978">
+    <groups>
+      <group name="Sanity">
+        <method signature="TC_001Login.loginHrm()[pri:0, instance:TestCases.TC_001Login@222eb8aa]" name="loginHrm" class="TestCases.TC_001Login"/>
+      </group> <!-- Sanity -->
+    </groups>
+    <test started-at="2024-09-17T18:49:28 IST" name="Test" finished-at="2024-09-17T18:50:55 IST" duration-ms="86978">
+      <class name="TestCases.TC_001Login">
+        <test-method is-config="true" signature="openbrowser(java.lang.String,java.lang.String)[pri:0, instance:TestCases.TC_001Login@222eb8aa]" started-at="2024-09-17T18:49:28 IST" name="openbrowser" finished-at="2024-09-17T18:50:49 IST" duration-ms="80452" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="loginHrm()[pri:0, instance:TestCases.TC_001Login@222eb8aa]" started-at="2024-09-17T18:50:49 IST" name="loginHrm" finished-at="2024-09-17T18:50:54 IST" duration-ms="5189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginHrm -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:TestCases.TC_001Login@222eb8aa]" started-at="2024-09-17T18:50:54 IST" name="closebrowser" finished-at="2024-09-17T18:50:55 IST" duration-ms="1057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- TestCases.TC_001Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

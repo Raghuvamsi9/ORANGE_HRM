@@ -1,0 +1,83 @@
+20:30:48.440 [main] INFO  TestCases.TC_001Login - *** starting login page***
+20:30:48.489 [main] INFO  TestCases.TC_001Login - enter username
+20:30:50.025 [main] INFO  TestCases.TC_001Login - enter password
+20:30:51.296 [main] INFO  TestCases.TC_001Login - target page displayed
+20:30:51.666 [main] INFO  TestCases.TC_001Login - *** ending login page***
+20:35:51.667 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\RaghuJavaProject\ORANGE_HRM\AllMasterHRM.xml
+
+20:36:04.846 [main] INFO  TestCases.TC_001Login - *** starting login page***
+20:36:04.863 [main] INFO  TestCases.TC_001Login - enter username
+20:36:05.310 [main] INFO  TestCases.TC_001Login - enter password
+20:36:05.517 [main] INFO  TestCases.TC_001Login - target page displayed
+20:36:06.940 [main] INFO  TestCases.TC_001Login - *** ending login page***
+20:47:28.663 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\RaghuJavaProject\ORANGE_HRM\AllMasterHRM.xml
+
+20:47:43.995 [main] INFO  TestCases.TC_001Login - *** starting login page***
+20:47:44.014 [main] INFO  TestCases.TC_001Login - enter username
+20:47:44.442 [main] INFO  TestCases.TC_001Login - enter password
+20:47:44.651 [main] INFO  TestCases.TC_001Login - target page displayed
+20:47:46.046 [main] INFO  TestCases.TC_001Login - *** ending login page***
+20:53:29.131 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\RaghuJavaProject\ORANGE_HRM\AllMasterHRM.xml
+
+20:53:42.839 [main] INFO  TestCases.TC_001Login - *** starting login page***
+20:53:42.861 [main] INFO  TestCases.TC_001Login - enter username
+20:53:43.327 [main] INFO  TestCases.TC_001Login - enter password
+20:53:43.511 [main] INFO  TestCases.TC_001Login - target page displayed
+20:53:44.952 [main] INFO  TestCases.TC_001Login - *** ending login page***
+20:56:28.160 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\RaghuJavaProject\ORANGE_HRM\AllMasterHRM.xml
+
+20:56:41.008 [main] INFO  TestCases.TC_001Login - *** starting login page***
+20:56:41.024 [main] INFO  TestCases.TC_001Login - enter username
+20:56:41.535 [main] INFO  TestCases.TC_001Login - enter password
+20:56:41.709 [main] INFO  TestCases.TC_001Login - target page displayed
+20:56:43.173 [main] INFO  TestCases.TC_001Login - *** ending login page***
+20:58:26.953 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\RaghuJavaProject\ORANGE_HRM\AllMasterHRM.xml
+
+20:58:47.206 [main] INFO  TestCases.TC_001Login - *** starting login page***
+20:58:47.234 [main] INFO  TestCases.TC_001Login - enter username
+20:58:47.917 [main] INFO  TestCases.TC_001Login - enter password
+20:58:49.747 [main] INFO  TestCases.TC_001Login - target page displayed
+20:58:50.166 [main] INFO  TestCases.TC_001Login - *** ending login page***
+21:04:50.099 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\RaghuJavaProject\ORANGE_HRM\AllMasterHRM.xml
+
+21:04:59.729 [main] INFO  TestCases.TC_001Login - *** starting login page***
+21:04:59.748 [main] INFO  TestCases.TC_001Login - enter username
+21:05:01.173 [main] INFO  TestCases.TC_001Login - enter password
+21:05:01.337 [main] INFO  TestCases.TC_001Login - target page displayed
+21:05:03.262 [main] INFO  TestCases.TC_001Login - *** ending login page***
+21:06:45.725 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\RaghuJavaProject\ORANGE_HRM\AllMasterHRM.xml
+
+21:06:59.793 [main] INFO  TestCases.TC_001Login - *** starting login page***
+21:06:59.809 [main] INFO  TestCases.TC_001Login - enter username
+21:07:00.267 [main] INFO  TestCases.TC_001Login - enter password
+21:07:01.447 [main] INFO  TestCases.TC_001Login - target page displayed
+21:07:01.833 [main] INFO  TestCases.TC_001Login - *** ending login page***
+21:08:14.212 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\RaghuJavaProject\ORANGE_HRM\AllMasterHRM.xml
+
+21:08:21.474 [main] INFO  TestCases.TC_001Login - *** starting login page***
+21:08:21.493 [main] INFO  TestCases.TC_001Login - enter username
+21:08:21.931 [main] INFO  TestCases.TC_001Login - enter password
+21:08:23.089 [main] INFO  TestCases.TC_001Login - target page displayed
+21:08:23.463 [main] INFO  TestCases.TC_001Login - *** ending login page***
+21:11:41.391 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\RaghuJavaProject\ORANGE_HRM\AllMasterHRM.xml
+
+21:11:56.091 [main] INFO  TestCases.TC_001Login - *** starting login page***
+21:11:56.108 [main] INFO  TestCases.TC_001Login - enter username
+21:11:56.622 [main] INFO  TestCases.TC_001Login - enter password
+21:11:57.888 [main] INFO  TestCases.TC_001Login - target page displayed
+21:11:58.286 [main] INFO  TestCases.TC_001Login - *** ending login page***
+21:14:43.122 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\RaghuJavaProject\ORANGE_HRM\AllMasterHRM.xml
+
+21:14:57.986 [main] INFO  TestCases.TC_001Login - *** starting login page***
+21:14:58.003 [main] INFO  TestCases.TC_001Login - enter username
+21:14:58.520 [main] INFO  TestCases.TC_001Login - enter password
